@@ -6,7 +6,7 @@
             <class name="AutomationTester.New001.TestNGExample.TNG002">
             <methods>
                 <include name="demo2"/>
-                <include name="demo4"/>
+<!--                <include name="demo4"/>-->
             </methods>
         </class>
         </classes>

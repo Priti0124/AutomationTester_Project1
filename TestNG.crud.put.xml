@@ -3,14 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" name="AutomationTester">
           <classes>
-            <class name="AutomationTester.New001.RestAssured.CRUD.POST.RA001">
+            <class name="AutomationTester.New001.RestAssured.CRUD.PUT.BookingRequest">
         </class>
         </classes>
-          <groups>
-            <run>
-                <include name="Positive"/>
-                <include name="Negative"/>
-            </run>
-        </groups>
     </test>
 </suite>

@@ -8,7 +8,8 @@
         </classes>
           <groups>
             <run>
-                <include name="Smoke"/>
+                <include name="QA"/>
+                <include name="Regression"/>
             </run>
         </groups>
     </test>

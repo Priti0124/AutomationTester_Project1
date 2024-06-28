@@ -2,13 +2,14 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" name="AutomationTester">
-        <classes>
-            <class name="AutomationTester.New001.TestNGExample.TNG002">
-            <methods>
-                <include name="demo2"/>
-<!--                <include name="demo4"/>-->
-            </methods>
+          <classes>
+            <class name="AutomationTester.New001.TestNGExample.TNG004">
         </class>
         </classes>
+          <groups>
+            <run>
+                <include name="Smoke"/>
+            </run>
+        </groups>
     </test>
 </suite>
