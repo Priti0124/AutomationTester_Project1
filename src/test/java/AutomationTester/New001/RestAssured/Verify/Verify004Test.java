@@ -1,15 +1,21 @@
 package AutomationTester.New001.RestAssured.Verify;
 
+import org.testng.annotations.Test;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class Verify003 {
-
-    public static void main(String[] args) {
+public class Verify004Test {
 
 
-        String responseName= "Priti";
-        assertThat(responseName).isNotNull().isNotBlank().isEqualTo("Priti");
+@Test
+        public void verify_Test(){
+
+    String responseName= "Priti";
+    assertThat(responseName).isNotNull().isNotBlank().isEqualTo("Priti");
+    System.out.println(responseName);
+
+}
 
 
-    }
+
 }

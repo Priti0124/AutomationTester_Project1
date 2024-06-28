@@ -1,6 +1,4 @@
-package AutomationTester.New001;
-
-import org.testng.annotations.*;
+package AutomationTester.New001.TestNGExample2;
 
 public class RA001 {
 

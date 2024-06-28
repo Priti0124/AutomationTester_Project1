@@ -1,4 +1,4 @@
-package AutomationTester;
+package AutomationTester.New001.TestNGExample;
 
 import io.restassured.RestAssured;
 

@@ -1,4 +1,4 @@
-package AutomationTester.New001.RestAssured;
+package AutomationTester.New001.RestAssured.CRUD.POST;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

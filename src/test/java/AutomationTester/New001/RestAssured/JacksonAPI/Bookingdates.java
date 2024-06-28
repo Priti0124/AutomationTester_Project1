@@ -1,4 +1,4 @@
-package AutomationTester.New001.RestAssured.SerDes;
+package AutomationTester.New001.RestAssured.JacksonAPI;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

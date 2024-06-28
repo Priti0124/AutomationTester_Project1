@@ -1,4 +1,4 @@
-package AutomationTester.New001;
+package AutomationTester.New001.TestNGExample;
 
 public class BuilderPattern {
 

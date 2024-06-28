@@ -1,4 +1,4 @@
-package AutomationTester.New001.RestAssured.POJO;
+package AutomationTester.New001.RestAssured.SerDes;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
